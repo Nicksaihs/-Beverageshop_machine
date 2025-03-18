@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\func\func\bin\Debug\net6.0-windows\func.exe
+C:\Users\User\Desktop\func\func\bin\Debug\net6.0-windows\func.deps.json
+C:\Users\User\Desktop\func\func\bin\Debug\net6.0-windows\func.runtimeconfig.json
+C:\Users\User\Desktop\func\func\bin\Debug\net6.0-windows\func.dll
+C:\Users\User\Desktop\func\func\bin\Debug\net6.0-windows\func.pdb
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.Form1.resources
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.csproj.GenerateResource.cache
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.AssemblyInfo.cs
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.dll
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\refint\func.dll
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.pdb
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\func.genruntimeconfig.cache
+C:\Users\User\Desktop\func\func\obj\Debug\net6.0-windows\ref\func.dll
